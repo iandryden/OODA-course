@@ -5,5 +5,5 @@ Here are the slides, data and exercises for a 2 hour short course in Object Orie
 
 The slides are in [OODA-course-ild.pdf](./OODA-course-ild.pdf)
 
-The R Markdown for the exercise is in [OODA-course-r-exercises-ild.Rmd](./OODA-course-r-exercises-ild.Rmd)
+The R Markdown for the exercise is in [OODA-course-R-exercises-ild.Rmd](./OODA-course-R-exercises-ild.Rmd)
 

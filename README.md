@@ -7,3 +7,4 @@ The slides are in [OODA-course-ild.pdf](./OODA-course-ild.pdf)
 
 The R Markdown for the exercise is in [OODA-course-R-exercises-ild.Rmd](./OODA-course-R-exercises-ild.Rmd)
 
+The other files are datasets that should be in the same directory on your local machine as the .Rmd file. 

@@ -3,8 +3,16 @@ Short course
 
 Here are the slides, data and exercises for a 2 hour short course in Object Oriented Data Analysis (OODA).
 
+Please bring your laptop, as R will be used during the lectures. Please make sure that you have installed:
+
+[R](https://cran.r-project.org/)
+
+[RStudio](https://posit.co/download/rstudio-desktop)
+
+Please also install the R package shapes. You can do this by running the following command in RStudio: Install.packages("shapes")
+
 The slides are in [OODA-course-ild.pdf](./OODA-course-ild.pdf)
 
-The R Markdown for the exercise is in [OODA-course-R-exercises-ild.Rmd](./OODA-course-R-exercises-ild.Rmd)
+The R Markdown for the exercises are in [OODA-course-R-exercises-ild.Rmd](./OODA-course-R-exercises-ild.Rmd)
 
 The other files are datasets that should be in the same directory on your local machine as the .Rmd file. 

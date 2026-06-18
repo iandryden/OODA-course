@@ -1,5 +1,6 @@
 # OODA-course
-Short course
+
+*Short course*
 
 Here are the slides, data and exercises for a 2 hour short course in Object Oriented Data Analysis (OODA).
 

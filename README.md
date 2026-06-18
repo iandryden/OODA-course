@@ -9,7 +9,7 @@ Please bring your laptop, as R will be used during the lectures. Please make sur
 
 [RStudio](https://posit.co/download/rstudio-desktop)
 
-Please also install the R package shapes. You can do this by running the following command in RStudio: Install.packages("shapes")
+Please also install the R package shapes. You can do this by running the following command in RStudio: install.packages("shapes")
 
 The slides are in [OODA-course-ild.pdf](./OODA-course-ild.pdf)
 
